@@ -1,7 +1,5 @@
 import 'package:flutter/material.dart';
 
-
-
 class Location extends StatefulWidget {
   @override
   _LocationState createState() => _LocationState();

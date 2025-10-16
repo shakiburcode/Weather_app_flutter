@@ -8,7 +8,6 @@ class Loading extends StatefulWidget {
 }
 
 
-
 class _LoadingState extends State<Loading> {
 
   String city = "Indore";

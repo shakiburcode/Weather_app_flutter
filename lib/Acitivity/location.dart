@@ -12,4 +12,5 @@ class _LocationState extends State<Location> {
       body: Text("Location Activity"),
     );
   }
+  
 }

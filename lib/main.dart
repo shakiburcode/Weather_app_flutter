@@ -11,6 +11,6 @@ void main() {
       "/home" : (context) => Home(),
       "/loading" : (context) => Loading(),
     },
-    
+  
   ));
 }

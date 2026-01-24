@@ -12,7 +12,6 @@ class worker
     location = this.location;
   }
 
-
   String ?temp;
   String ?humidity;
   String ?air_speed;

@@ -3,7 +3,7 @@ import 'dart:convert';
 class worker
 {
 
-  
+
   String location;
 
   //Constructor
